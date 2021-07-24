@@ -1,4 +1,4 @@
-AI Glass입니다.
+# AI Glass입니다.
 
 메인 실행 코드 파일은 face_recognition_demo.py 파일입니다.
 
